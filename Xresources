@@ -1,0 +1,42 @@
+!---- saparized color definitions ---------------------------
+*background:             #293134
+*foreground:             #e8e2b7
+
+*fading:                 5
+*fadeColor:              #293134
+*cursorColor:            #e8e2b7
+
+*pointerColorBackground: #678cb1
+*pointerColorForeGround: #ec7600
+
+!black
+*color0:                 #293134
+*color8:                 #545454
+
+!red
+*color1:                 #dc322f
+*color9:                 #EC7600
+
+!green
+*color2:                 #93C763
+*color10:                #7DDF32
+
+!yellow
+*color3:                 #b58900
+*color11:                #FCE94F
+!blue
+*color4:                 #678CB1
+*color12:                #1e74ff
+
+!magenta
+*color5:                 #A082BD
+*color13:                #FF8BFF
+
+!cyan
+*color6:                 #2aa198
+*color14:                #66CCB3
+
+!white
+*color7:                 #bdccd3
+*color15:                #E8E2B7
+
