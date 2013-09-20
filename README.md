@@ -8,7 +8,7 @@ As I keep finding some annoyances with some markings that are not visible in
 the preview direclty, this theme still is a moving target. Feel free to leave
 any change requests in the issue tracker.
 
-![saeparized][https://github.com/saep/saeparized/blob/raw/example.png]
+![saeparized](https://github.com/saep/saeparized/blob/raw/example.png)
 
 ## eclipse
 
